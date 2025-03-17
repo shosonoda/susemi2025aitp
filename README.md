@@ -13,6 +13,12 @@
   - [東大数学2025大問5 ChatGPT o3-mini-high](https://chatgpt.com/share/67be032c-cc20-8001-85ad-f6b07c06077e)
   - [東大数学2025大問6 ChatGPT o3-mini-high](https://chatgpt.com/share/67be033d-9d0c-8001-a89f-6f89faf0a07c)
 
+## [./proof-gpt](https://github.com/shosonoda/susemi2025aitp/tree/main/proof-gpt)
+**ChatGPT o3-mini-high による大学レベルの数学定理の証明**
+- 隠れ1層全結合ニューラルネットの普遍近似定理
+- 体準同型の単射性
+- （いずれも教科書通りの証明であるため，事前に知識として知っていたものと考えられる）
+
 ## [./survey-gpt](https://github.com/shosonoda/susemi2025aitp/tree/main/survey-gpt)
 **ChatGPT Deep Research 機能を用いて生成された「AIにおける定理証明」の調査記事**
 - 一読して気付いたハルシネーション（数字や固有名詞の誤植，説明の誤りなど）や無効なリンクなどは適宜修正してありますが，まだ多くの**嘘が含まれている**可能性があります
