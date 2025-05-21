@@ -1,9 +1,9 @@
-# 『数学セミナー』増刊号　コラム補足資料
-『数学セミナー』増刊号（タイトル：未定）に寄稿したコラムの補足資料です
+# 数学セミナー増刊　補足資料
+数学セミナー増刊「数学とAIのこれまで（とこれから）」に寄稿したコラム「AI における自動証明について」の補足資料です
 
 ## [./todai2025](https://github.com/shosonoda/susemi2025aitp/tree/main/todai2025)
 **ChatGPT o3-mini-high による東京大学の2025年度入試問題の理系数学に対する解答結果**
-- Xにて「解答略」氏が共有していた結果をpdf化したものです
+- Xにて「解答略」氏が共有していた結果をpdf化したもの
 - 元ポスト情報
   - @kaitou\_ryaku, https://x.com/kaitou_ryaku/status/1894453591735505353, 2025年2月26日 午前3:25
   - [東大数学2025大問1 ChatGPT o3-mini-high](https://chatgpt.com/share/67be02df-c56c-8001-ba35-176dca1f07d3)
